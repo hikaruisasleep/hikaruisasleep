@@ -1,6 +1,4 @@
-# hey, i'm kei.
-
-**video editor by day, computer science student by night.**
+# hey, i'm ben.
 
 i'm interested in building systems, understanding how they work, and occasionally finding out how they break.
 
